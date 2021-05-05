@@ -1,0 +1,4 @@
+export const QUERY_KEYS = {
+  FETCH_FIVE_DAYS: "FETCH_FIVE_DAYS",
+  FIVE_DAYS_MAP: "FIVE_DAYS_MAP",
+};
