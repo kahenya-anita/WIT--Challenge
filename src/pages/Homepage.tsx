@@ -123,7 +123,7 @@ const Homepage = () => {
               <Box height="20px" width="300px">
                 <GooglePlacesAutocomplete
                   apiOptions={{ language: "en", region: "ke" }}
-                  apiKey="AIzaSyCyPbCcESQ995vcU8gGX64clnfhhqh1D6s"
+                  apiKey={process.env.REACT_APP_GOOGLE_API_KEY}
                   selectProps={{
                     placeholder: "Type to search for location",
                     onChange: async (value: any) => {
