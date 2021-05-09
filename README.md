@@ -1,7 +1,7 @@
 ### WITWEATHER APP
- # This is a weather app build in react that displays a weekly weather map of the location that a user searches.It also graphs the weather distribution pattern for the entire week to help you prepare in advance on what you going to wear and what to and not to carry for a specific day of the week. 
+ * This is a weather app build in react that displays a weekly weather map of the location that a user searches.It also graphs the weather distribution pattern for the entire week to help you prepare in advance on what you going to wear and what to and not to carry for a specific day of the week. 
 
-## Screenshot
+### Screenshot
  * ![wit](https://user-images.githubusercontent.com/62019551/117570271-0c3ee000-b0d2-11eb-898e-461f8f981284.png)
 
 
